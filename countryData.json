@@ -1282,7 +1282,7 @@
   ,
   {
     "code": 977,
-    "tw": "尼泊尔",
+    "tw": "尼泊爾",
     "en": "Nepal",
     "locale": "NP",
     "zh": "尼泊尔",
@@ -1362,14 +1362,24 @@
   }
   ,
   {
-    "code": 243,
-    "tw": "刚果",
+    "code": 242,
+    "tw": "剛果共和國",
     "en": "Congo",
-    "locale": "CD",
+    "locale": "CG",
     "zh": "刚果共和国",
     "lat": -0.23,
     "lng": 15.83,
-    "emoji": "CD"
+    "emoji": "CG"
+  },
+  {
+    "code": 243,
+    "tw": "剛果民主共和國",
+    "en": "Democratic Republic of the Congo",
+    "locale": "CD ",
+    "zh": "刚果民主共和国",
+    "lat": -0.917028,
+    "lng": 23.789614,
+    "emoji": "CD "
   },
   {
     "code": 420,
@@ -1380,5 +1390,156 @@
     "lat": 49.82,
     "lng": 15.47,
     "emoji": "CZ"
+  } ,
+  {
+    "code": 674,
+    "tw": "諾魯",
+    "en": "Nauru",
+    "locale": "NRU",
+    "zh": "瑙鲁",
+    "lat": -0.52,
+    "lng": 166.93,
+    "emoji": "NRU"
+  },
+  {
+    "code": 234,
+    "tw": "奈及利亞",
+    "en": "Nigeria",
+    "locale": "NG",
+    "zh": "尼日利亚",
+    "lat": 9.08,
+    "lng": 8.68,
+    "emoji": "NG"
+  },
+  {
+    "code": 507,
+    "tw": "巴拿馬",
+    "en": "Panama",
+    "locale": "PA",
+    "zh": "巴拿马",
+    "lat": 8.54,
+    "lng": -80.78,
+    "emoji": "PA"
+  },
+  {
+    "code": 995,
+    "tw": "喬治亞",
+    "en": "Georgia",
+    "locale": "GE",
+    "zh": "格鲁吉亚",
+    "lat": 32.17,
+    "lng": -82.90,
+    "emoji": "GE"
+  },
+  {
+    "code": 51,
+    "tw": "秘魯",
+    "en": "Peru",
+    "locale": "PE",
+    "zh": "秘鲁",
+    "lat": -9.19,
+    "lng": -75.02,
+    "emoji": "PE"
+  },
+  {
+    "code": 673,
+    "tw": "汶萊",
+    "en": "Brunei",
+    "locale": "BRN",
+    "zh": "文莱",
+    "lat": 4.54,
+    "lng": 114.73,
+    "emoji": "BRN"
+  },
+  {
+    "code": 267,
+    "tw": "波札那",
+    "en": "Botswana",
+    "locale": "BW",
+    "zh": "博茨瓦纳",
+    "lat": -22.33,
+    "lng": 24.68,
+    "emoji": "BW"
+  },
+  {
+    "code": 235,
+    "tw": "查德",
+    "en": "Chad",
+    "locale": "TD",
+    "zh": "乍得共和国",
+    "lat": 15.453,
+    "lng": 18.73,
+    "emoji": "TD"
+  },
+  {
+    "code": 509,
+    "tw": "海地",
+    "en": "Haiti",
+    "locale": "HT",
+    "zh": "海地",
+    "lat": 18.97,
+    "lng": -72.29,
+    "emoji": "HT"
+  },
+  {
+    "code": 852,
+    "tw": "香港特別行政區",
+    "en": "Hong Kong",
+    "locale": "HK",
+    "zh": "香港",
+    "lat": 22.40,
+    "lng": 114.11,
+    "emoji": "HK"
+  },
+  {
+    "code": 853,
+    "tw": "澳門特別行政區",
+    "en": "Macao",
+    "locale": "MAC",
+    "zh": "澳门",
+    "lat": 22.20,
+    "lng": 113.54,
+    "emoji": "MAC"
+  },
+  {
+    "code": 679,
+    "tw": "斐濟",
+    "en": "Fiji",
+    "locale": "FIJ",
+    "zh": "斐济",
+    "lat": -17.71,
+    "lng": 178.07,
+    "emoji": "FIJ"
+  },
+  {
+    "code": 356,
+    "tw": "馬爾他",
+    "en": "Malta",
+    "locale": "MLT",
+    "zh": "马耳他",
+    "lat": 35.94,
+    "lng": 14.38,
+    "emoji": "MLT"
+  },
+  {
+    "code": 258,
+    "tw": "莫三比克",
+    "en": "Mozambique",
+    "locale": "MOZ",
+    "zh": "莫桑比克",
+    "lat": -18.67,
+    "lng": -35.53,
+    "emoji": "MOZ"
+  },
+  {
+    "code": 1787,
+    "tw": "波多黎各",
+    "en": "Puerto Rico",
+    "locale": "PR",
+    "zh": "波多黎各",
+    "lat": 18.22,
+    "lng": -66.59,
+    "emoji": "PR"
   }
+  
 ]
